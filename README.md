@@ -2,7 +2,7 @@
 
 # Hi, I'm Dr. Fabiano Filho! 👋🩺
 
-**Physician · Data Scientist · AI in Health Specialist**
+**Medical Doctor · Data Scientist · AI in Health Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fabianofilho-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabianofilho/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Fabiano%20Filho-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IqVY-BQAAAAJ&hl=pt-BR)
@@ -14,7 +14,7 @@
 
 ---
 
-I'm a **physician and data scientist** passionate about using AI to transform healthcare. I currently serve as **Medical Manager of Innovation and AI at Hapvida NotreDame Intermédica** and am a **PhD student in Machine Learning for Public Health at FSP-USP**, researching **multicalibration and fairness** in predictive models to ensure AI is equitable across all populations. 🌱
+I'm a **medical doctor and data scientist** passionate about using AI to transform healthcare. I currently serve as **Medical Manager of Innovation and AI at Hapvida NotreDame Intermédica** and am a **PhD student in Machine Learning for Public Health at FSP-USP**, researching **multicalibration and fairness** in predictive models to ensure AI is equitable across all populations. 🌱
 
 - 🏥 **Medical AI Manager** · Hapvida NotreDame Intermédica
 - 🎓 **PhD Student** · Machine Learning in Public Health · FSP-USP (LABDAPS)
