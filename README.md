@@ -64,6 +64,7 @@ I'm a **medical doctor and data scientist** passionate about using AI to transfo
 | [**amie-agents**](https://github.com/fabianofilho/amie-agents) | Conversational medical AI assistants inspired by Google DeepMind's AMIE, with multi-agent architecture | MedGemma · FastAPI · LangChain · Ollama |
 | [**datasus-ai-search**](https://github.com/fabianofilho/datasus-ai-search) | Natural language queries over Brazilian epidemiological data (DATASUS) — no SQL needed | Python · LLMs · DuckDB · Streamlit |
 | [**digital-twins-health-ai**](https://github.com/fabianofilho/digital-twins-health-ai) | Digital twins platform for health AI to simulate and predict clinical outcomes | TypeScript · Clinical AI |
+| [**aiscribr**](https://github.com/fabianofilho/aiscribr) | Clinical AI transcriber — SOAP summaries for medical consultations | HTML · AI · Clinical NLP |
 | [**ehr-open-health**](https://github.com/fabianofilho/ehr-open-health) | Open electronic health record system with FHIR interoperability | TypeScript · FHIR · EHR |
 
 ---
