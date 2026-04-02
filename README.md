@@ -64,6 +64,7 @@ I'm a **medical doctor and data scientist** passionate about using AI to transfo
 | [**amie-agents**](https://github.com/fabianofilho/amie-agents) | Conversational medical AI assistants inspired by Google DeepMind's AMIE, with multi-agent architecture | MedGemma · FastAPI · LangChain · Ollama |
 | [**datasus-ai-prediction**](https://github.com/fabianofilho/datasus-ai-prediction) | Predictive ML models trained on DATASUS data for clinical and epidemiological outcome forecasting | Python · scikit-learn · XGBoost · DATASUS |
 | [**datasus-ai-search**](https://github.com/fabianofilho/datasus-ai-search) | Natural language queries over Brazilian epidemiological data (DATASUS) — no SQL needed | Python · LLMs · DuckDB · Streamlit |
+| [**ml-para-medicos**](https://github.com/fabianofilho/ml-para-medicos) | Interactive ML course for healthcare professionals with AI tutor, quizzes and clinical analogies | HTML/JS · Claude API · AI Tutor · Medical Education |
 
 ---
 
@@ -91,6 +92,7 @@ I'm a **medical doctor and data scientist** passionate about using AI to transfo
 
 - 📰 **[Substack — Medicine and Artificial Intelligence](https://fabianofilho.substack.com/)** · Newsletter on fairness, LLMs and generative AI in medicine
 - ✍️ **[Medium — dadosesaude](https://fabianonbfilho.medium.com/)** · Educational articles on health data science
+- 🎓 **[ML para Medicos — Interactive Course](https://github.com/fabianofilho/ml-para-medicos)** · 10-module ML course for physicians with AI tutor and clinical analogies
 - 🌐 **[portfolio.fabianofilho.com](https://portfolio.fabianofilho.com)** · Full portfolio with career, projects and publications
 
 ---
