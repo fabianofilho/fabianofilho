@@ -101,8 +101,8 @@ Model Context Protocol servers that give any LLM client (Claude, Claude Code, ot
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**iamed-harness**](https://github.com/fabianofilho/iamed-harness) | Minimal, auditable harness to evaluate LLMs on clinical multiple-choice tasks: run-to-run variance, calibration and semantic perturbations. First command runs offline, no API key | Python · uv |
-| [**cardiovascular-timeseries-prediction**](https://github.com/fabianofilho/cardiovascular-timeseries-prediction) | Monthly cardiovascular mortality in São Paulo state (SIM, 2010–2023): SARIMA vs Prophet vs TimesFM vs boosting, rolling-origin backtesting with measured uncertainty | skforecast · TimesFM · SIM |
-| [**dengue-timeseries-skforecast**](https://github.com/fabianofilho/dengue-timeseries-skforecast) | Dengue forecasting for 8 Brazilian capitals (InfoDengue, 2010–2024): seasonal naive, SARIMA, Prophet, LightGBM/XGBoost/CatBoost/RF and TimesFM 2.5 zero-shot | skforecast · InfoDengue |
+| [**cardiovascular-timeseries-prediction**](https://github.com/fabianofilho/cardiovascular-timeseries-prediction) | Monthly cardiovascular mortality in São Paulo state (SIM, 2010-2023): SARIMA vs Prophet vs TimesFM vs boosting, rolling-origin backtesting with measured uncertainty | skforecast · TimesFM · SIM |
+| [**dengue-timeseries-skforecast**](https://github.com/fabianofilho/dengue-timeseries-skforecast) | Dengue forecasting for 8 Brazilian capitals (InfoDengue, 2010-2024): seasonal naive, SARIMA, Prophet, LightGBM/XGBoost/CatBoost/RF and TimesFM 2.5 zero-shot | skforecast · InfoDengue |
 | [**amie-agents**](https://github.com/fabianofilho/amie-agents) | Conversational medical AI assistants inspired by Google DeepMind's AMIE, multi-agent architecture | MedGemma · FastAPI · LangChain |
 
 ### 📚 Curated lists & community
@@ -139,8 +139,8 @@ Model Context Protocol servers that give any LLM client (Claude, Claude Code, ot
 ## ✍️ Content & Outreach
 
 - 🧪 **[IA.med](https://app.iamed.cc)** · Curated papers, podcasts, lessons and open tools on AI in medicine, in Portuguese
-- 📰 **[Substack — Medicine and Artificial Intelligence](https://fabianofilho.substack.com/)** · Newsletter on fairness, LLMs and generative AI in medicine
-- ✍️ **[Medium — dadosesaude](https://fabianonbfilho.medium.com/)** · Educational articles on health data science
+- 📰 **[Substack: Medicine and Artificial Intelligence](https://fabianofilho.substack.com/)** · Newsletter on fairness, LLMs and generative AI in medicine
+- ✍️ **[Medium: dadosesaude](https://fabianonbfilho.medium.com/)** · Educational articles on health data science
 - 🌐 **[portfolio.fabianofilho.com](https://portfolio.fabianofilho.com)** · Full portfolio with career, projects and publications
 
 ---
