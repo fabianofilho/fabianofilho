@@ -9,7 +9,7 @@
 [![Substack](https://img.shields.io/badge/Substack-Medicine%20%26%20AI-FF6719?style=flat&logo=substack&logoColor=white)](https://fabianofilho.substack.com/)
 [![Medium](https://img.shields.io/badge/Medium-dadosesaude-000000?style=flat&logo=medium)](https://fabianonbfilho.medium.com/)
 [![IA.med](https://img.shields.io/badge/IA.med-app.iamed.cc-0D9488?style=flat&logoColor=white)](https://app.iamed.cc)
-[![Website](https://img.shields.io/badge/Portfolio-fabianofilho.com-3b82f6?style=flat&logo=google-chrome&logoColor=white)](https://portfolio.fabianofilho.com)
+[![Website](https://img.shields.io/badge/Portfolio-fabianofilho.com-3b82f6?style=flat&logo=google-chrome&logoColor=white)](https://fabianofilho.com)
 
 </div>
 
@@ -141,7 +141,7 @@ Model Context Protocol servers that give any LLM client (Claude, Claude Code, ot
 - 🧪 **[IA.med](https://app.iamed.cc)** · Curated papers, podcasts, lessons and open tools on AI in medicine, in Portuguese
 - 📰 **[Substack: Medicine and Artificial Intelligence](https://fabianofilho.substack.com/)** · Newsletter on fairness, LLMs and generative AI in medicine
 - ✍️ **[Medium: dadosesaude](https://fabianonbfilho.medium.com/)** · Educational articles on health data science
-- 🌐 **[portfolio.fabianofilho.com](https://portfolio.fabianofilho.com)** · Full portfolio with career, projects and publications
+- 🌐 **[fabianofilho.com](https://fabianofilho.com)** · Full portfolio with career, projects and publications
 
 ---
 
