@@ -112,7 +112,7 @@ Model Context Protocol servers that give any LLM client (Claude, Claude Code, ot
 | [**awesome-medical-ai**](https://github.com/fabianofilho/awesome-medical-ai) | Curated list of Medical AI resources: papers, datasets, tools, pre-trained models, code and competitions, with weekly automated updates |
 | [**awesome-health-datasets**](https://github.com/fabianofilho/awesome-health-datasets) | Open datasets in healthcare, medical imaging, clinical data and bioinformatics |
 | [**labdaps/labskills**](https://github.com/labdaps/labskills) | Collaborative Claude Code skills for the LABDAPS lab (FSP-USP): ML in health and scientific writing, distributed as plugins |
-| [**iamed**](https://github.com/fabianofilho/iamed) | IA.med clinical suite: 8 structured clinical-reasoning templates as a Claude skill |
+| [**med**](https://github.com/fabianofilho/med) | `/med` clinical suite for Claude: direct answers plus 8 structured clinical-reasoning templates |
 
 ---
 
